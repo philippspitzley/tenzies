@@ -1,5 +1,5 @@
 # Tenzies
-
+![Tenzies](/src/assests/image.png)
 Small game where you roll dice and try to get them all to the same number.
 
 # Techstack
